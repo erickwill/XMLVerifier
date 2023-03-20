@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <authentication>
-    <token name="security">False</token>
+    <token name="security">PASSED</token>
 </authentication>
